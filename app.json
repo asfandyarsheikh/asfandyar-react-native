@@ -1,0 +1,7 @@
+{
+  "name": "Halaat",
+  "displayName": "Halaat",
+  "svgAppIcon": {
+    "foregroundPath": "./assets/svg/icon.svg"
+  }
+}
